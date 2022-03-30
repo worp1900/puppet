@@ -1,0 +1,3 @@
+user { "worp":
+  ensure => "present",
+}
